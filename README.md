@@ -33,5 +33,4 @@
 <!-- ไอคอนตกแต่งด้านล่าง (สามารถใส่รูปสัตว์เลี้ยงของคุณเองตรงนี้ได้) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ribbon.png" alt="Ribbon" width="45" height="45" />
 </div>
