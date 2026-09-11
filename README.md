@@ -34,10 +34,6 @@
   </tr>
 </table>
 
-<br/>
-
-### 📊 GitHub Analytics
-
 <picture>
   <!-- Dark Mode Pastel Blue -->
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ArayaKositkrai&show_icons=true&bg_color=101820&title_color=AEC6CF&text_color=CFCFCF&icon_color=84B6F4&border_color=2A3B4C&border_radius=15" />
